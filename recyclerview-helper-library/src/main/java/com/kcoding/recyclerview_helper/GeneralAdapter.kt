@@ -14,7 +14,7 @@ class GeneralAdapter : RecyclerView.Adapter<MainViewHolder>() {
     }
     lateinit var viewHolderPlug:ViewHolderPlug
 
-   lateinit var superClickListener:SuperClickListener
+    var superClickListener:SuperClickListener?=null
 
     lateinit var CONTEXT:Context
 
