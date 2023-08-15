@@ -1,4 +1,4 @@
-package com.kcoding.androidlibrary
+package com.nearpays.androidlibrary
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

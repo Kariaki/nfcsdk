@@ -43,12 +43,12 @@ android {
 dependencies {
     implementation "androidx.compose.ui:ui:$compose_version"
     implementation "androidx.compose.material:material:$compose_version"
-
     implementation 'androidx.core:core-ktx:1.7.0'
     implementation 'androidx.appcompat:appcompat:1.4.0'
+//    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    implementation("com.github.pro100svitlo:creditCardNfcReader:1.0.3")
+
     implementation 'com.google.android.material:material:1.4.0'
-
-
 }
 
 afterEvaluate {

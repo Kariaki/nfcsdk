@@ -1,4 +1,4 @@
-package com.kcoding.androidlibrary
+package com.nearpays.androidlibrary
 
 import org.junit.Test
 

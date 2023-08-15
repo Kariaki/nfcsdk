@@ -6,6 +6,6 @@ dependencyResolutionManagement {
         jcenter() // Warning: this repository is going to shut down soon
     }
 }
-rootProject.name = "AndroidLibrary"
+rootProject.name = "NFC-SDK"
 include ':app'
-include ':recyclerview-helper-library'
+include ':nearpaysnfcsdk'

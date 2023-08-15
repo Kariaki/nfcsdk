@@ -1,4 +1,4 @@
-package com.kcoding.recyclerview_helper
+package com.nearpays.nearpaysnfcsdk
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -1,4 +1,4 @@
-package com.kcoding.recyclerview_helper
+package com.nearpays.nearpaysnfcsdk
 
 import org.junit.Test
 
